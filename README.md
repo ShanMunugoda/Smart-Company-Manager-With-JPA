@@ -5,4 +5,4 @@ Technology Stack:- Java FX,MySQL,JPA
 
 Architechure:-Expanded version of MVC
 
-Design Patterns:-Singleton,Facade,Factory,Strategy,DTO,DAO
+Design Patterns:-Singleton,Facade,Strategy,DTO,DAO
